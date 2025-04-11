@@ -1,4 +1,4 @@
-Hi 👋, My Name Is Ano Sunny
+<h1 align="left">Hi 👋, My Name Is Ano Sunny</h1>
 A passionate Developer
 
 - 👋 Hi, I’m @anosunny
