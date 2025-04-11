@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, My Name Is Ano Sunny</h1><br>
 <ul>
+  <li>MCA STUDENT</li><br>
   <li>🌱 I’m currently learning <b>Python</b> <br></li>
-  <li>📫 How to reach me: <b>anosunny175@gmail.com</b><br></li>
+  <li>📫 How to reach me <b>anosunny175@gmail.com</b><br></li>
 </ul>
 <b>Languages and Tools:<b>
 <p align="left">
