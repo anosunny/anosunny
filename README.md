@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, My Name Is Ano Sunny</h1><br>
+<h6> <li><I>Workholic ⚡</I></li></h6>
 <ul>
-  <li><I>Workholic ⚡</I></li>
   <li>👨🏻‍🎓MCA STUDENT</li>
   <li>🌱 I’m currently learning <b>Python</b> <br></li>
   <li>📫 How to reach me <b>anosunny175@gmail.com</b><br></li>
