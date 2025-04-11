@@ -4,7 +4,7 @@
   <li>🌱 I’m currently learning <b>Python</b> <br></li>
   <li>📫 How to reach me <b>anosunny175@gmail.com</b><br></li>
 </ul>
-<b>Languages and Tools:<b>
+<b>Technologies:<b>
 <p align="left">
   <br>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> &nbsp
