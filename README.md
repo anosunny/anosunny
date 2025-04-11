@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, My Name Is Ano Sunny</h1>
-anosunny
+<h3 align="center">Developer</h3>
 
-🌱 I’m currently learning Python 
-📫 How to reach me anosunny175@gmail.com
-Languages and Tools:
+- 🌱 I’m currently learning <b>Python</b>   
+- 📫 How to reach me: [anosunny175@gmail.com]
 
-<h2 align="left">I code with</h2>
+---
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
- 
-###
+### Languages and Tools:
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python-os.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/laravel.png" alt="Laravel"/>
+</p>
