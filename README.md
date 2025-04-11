@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anosunny
 - 🌱 I’m currently learning Python
 - 👀 I’m MCA Student
-- 📫 How to reach me anosunny175@gmail.com
+- 📫 How to reach me anosunny175@gmail.com<br>
 Languages and Tools:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
