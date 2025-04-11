@@ -1,18 +1,9 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, My Name Is Ano Sunny</h1>
+anosunny
 
-###
-
-<p align="left">My name is Ano Sunny and I'm a MCA Student</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
+🌱 I’m currently learning Python 
+📫 How to reach me anosunny175@gmail.com
+Languages and Tools:
 
 <h2 align="left">I code with</h2>
 
