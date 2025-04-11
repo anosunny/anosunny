@@ -6,7 +6,6 @@
 <b>Languages and Tools:<b>
 <p align="left">
   <br>
-  <br>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/laravel.png" alt="Laravel"/>
+  <img src="[https://img.icons8.com/color/48/000000/laravel.png](https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png)" alt="Laravel"/>
 </p>
